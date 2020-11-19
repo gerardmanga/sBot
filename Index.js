@@ -4,7 +4,7 @@ const axios = require('axios')
 
 const bot = new Discord.Client()
 const token =
-'Nzc4NTU1MDg0ODU3NTQwNjI4.X7Tr7Q.ItaAyPW9rdkDuNKEjCmAf7zonOM'
+'Insert token here'
 
 bot.on('ready', () => {
   console.log('bot logged in')
